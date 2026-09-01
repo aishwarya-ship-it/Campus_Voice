@@ -1,0 +1,83 @@
+[
+  {
+    "id": 0,
+    "complaintType": "Campus",
+    "name": "",
+    "department": "B.A English",
+    "category": "Library",
+    "complaint": "The library does not have sufficient copies of important textbooks required for our semester subjects. Many students are unable to access the required books during examination preparation. Kindly arrange additional copies of the frequently requested textbooks and improve the availability of study materials.",
+    "status": "Resolved"
+  },
+  {
+    "id": 1,
+    "complaintType": "Personal",
+    "name": "Aishwarya S",
+    "department": "B.Sc Information Technology",
+    "category": "Other",
+    "complaint": "I am facing difficulty in managing my academic workload and personal responsibilities, which is affecting my concentration and regular participation in academic activities. I kindly request the concerned staff to provide appropriate guidance and support to help me manage the situation effectively.",
+    "status": "Pending"
+  },
+  {
+    "id": 2,
+    "complaintType": "Campus",
+    "name": "",
+    "department": "B.Com",
+    "category": "Academic",
+    "complaint": "XXXXXXXXXX",
+    "status": "Resolved"
+  },
+  {
+    "id": 3,
+    "complaintType": "Campus",
+    "name": "",
+    "department": "B.Com A/F",
+    "category": "Other",
+    "complaint": "xxx",
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "complaintType": "Campus",
+    "name": "",
+    "department": "B.Sc Information Technology",
+    "category": "Library",
+    "complaint": "xxxxxxxxxxxxxxx",
+    "status": "Pending"
+  },
+  {
+    "id": 5,
+    "complaintType": "Campus",
+    "name": "",
+    "department": "B.Sc Information Technology",
+    "category": "Academic",
+    "complaint": "XXXxxx",
+    "status": "Pending"
+  },
+  {
+    "id": 6,
+    "complaintType": "Campus",
+    "name": "",
+    "department": "B.Sc Information Technology",
+    "category": "Transport",
+    "complaint": "Xxxxxxxxxxxxxxxx",
+    "status": "Pending"
+  },
+  {
+    "id": 7,
+    "complaintType": "Personal",
+    "name": "Akalya M",
+    "department": "B.Sc Information Technology",
+    "category": "Academic",
+    "complaint": "Xxxxxxxxxx",
+    "status": "Pending"
+  },
+  {
+    "id": 8,
+    "complaintType": "Campus",
+    "name": "",
+    "department": "B.Sc Information Technology",
+    "category": "Academic",
+    "complaint": "XXXXxxxxxxxxxxxxxxxxxxx",
+    "status": "Pending"
+  }
+]

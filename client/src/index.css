@@ -1,0 +1,166 @@
+/* Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f9;
+  color: #333;
+}
+
+/* ===========================
+   Navbar
+=========================== */
+
+nav {
+  background-color: #0d6efd;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 60px;
+}
+
+nav h2 {
+  font-size: 28px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 25px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+nav a:hover {
+  color: yellow;
+}
+
+/* ===========================
+   Hero Section
+=========================== */
+
+section {
+  text-align: center;
+  padding: 100px 20px;
+}
+
+section h1 {
+  font-size: 48px;
+  color: #0d6efd;
+}
+
+section p {
+  margin-top: 20px;
+  font-size: 20px;
+  color: #555;
+}
+
+button {
+  margin-top: 30px;
+  padding: 12px 30px;
+  background-color: #0d6efd;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #084298;
+}
+
+/* ===========================
+   About / Contact Pages
+=========================== */
+
+.page-container {
+  width: 80%;
+  margin: 60px auto;
+  text-align: center;
+}
+
+.page-container h1 {
+  color: #0d6efd;
+  margin-bottom: 20px;
+}
+
+.page-container p {
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+/* ===========================
+   Complaint Form
+=========================== */
+
+.complaint-container {
+  width: 600px;
+  max-width: 90%;
+  margin: 50px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.complaint-container h1 {
+  text-align: center;
+  color: #0d6efd;
+  margin-bottom: 25px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-top: 15px;
+  margin-bottom: 6px;
+  font-weight: bold;
+}
+
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+textarea {
+  resize: vertical;
+  min-height: 150px;
+}
+
+form button {
+  margin-top: 25px;
+}
+
+/* ===========================
+   Footer
+=========================== */
+
+footer {
+  background-color: #0d6efd;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 60px;
+}
